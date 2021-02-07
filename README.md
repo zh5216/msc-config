@@ -1,1 +1,1 @@
-# msc-config
+# SpringCloud Config测试配置 #
